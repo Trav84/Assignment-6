@@ -1,0 +1,14 @@
+div {
+	margin-top: 50px;
+	margin-left: 50px;
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+.box2 {
+	position: relative;
+	top: 25px;
+	left: 25px;
+}

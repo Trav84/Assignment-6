@@ -1,0 +1,19 @@
+div {
+	display:inline-block;
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+	margin-top: 50px; 
+	margin-left: 50px;
+
+}
+
+.box1 {
+	position: relative;
+}
+
+.box2 {
+	position: absolute;
+	left: 50px;
+	top:20px;
+}
